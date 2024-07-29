@@ -23,7 +23,7 @@ I am a Master’s student at [Huazhong University of Science and Technology](htt
 
 Previously, I got my B.Eng degrees (Outstanding Graduates) from [Central South University](https://en.csu.edu.cn/).
 
-My academic research interest includes multi-modal learning, weakly-supervised learning and vision language pre-training.
+My academic research interest includes multi-modal learning, large language model, weakly-supervised learning and vision language pre-training.
 
 My resume can be viewed at [Here](resume.pdf).
 
@@ -79,6 +79,20 @@ Longjianjie Zhang, **Xiaoyu Liu**, Ziheng Zhou, Zhihui Wang, Feng Hua, Cheng Che
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class='anchor' id='internships'></span>
+
+<!-- Internship -->
+
+# 💼 Internships
+
+<p style="text-align:left;"><b><ins>Baidu, Inc.</ins></b><span style="float:right;">Jan. 2024 - Now</span></p>
+
+*Large Language Model Algorithm Intern*
+
+* Responsible for the content production pipeline of Baidu Zhidao, collecting relevant materials from the entire internet based on user query data, fine-tuning LLMs to generate answers, and deploying a low-cost content production line with a daily output of hundreds of thousands.
+
+* Develop a multimodal agent routing-based response generation scheme to tackle issues arising from crucial information concealed in images. This enables the model to autonomously choose a response generation scheme based on plain text/+OCR/+original images according to the amount of information and relevance, achieving a 29\% improvement in content usability.
+
 <span class='anchor' id='projects'></span>
 
 <!-- Projects -->
@@ -90,6 +104,8 @@ Longjianjie Zhang, **Xiaoyu Liu**, Ziheng Zhou, Zhihui Wang, Feng Hua, Cheng Che
 *Project Leader*
 
 * In the process of aero-engine blade machining, use CatBoost to predict a reasonable initial value of the knife size, then use LLM to automate the tool screening process until it passes the system simulation test, avoiding the tedious steps of manual trial and error.
+
+* Design and develop a natural language interactive agent-based machining process control system, which operates serialized process objects through an LLM and realizes the fine adjustment of process flow and parameters.
 
 * Cooperate with [JITRI - Jiangsu Industrial Technology Research Institute](https://cn.linkedin.com/company/jitri).
 
